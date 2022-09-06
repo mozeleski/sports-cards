@@ -1,0 +1,8 @@
+requests
+urllib
+numpy
+pandas
+scipy
+selenium
+bs4
+lib2to3.pgen2
