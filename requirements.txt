@@ -1,8 +1,8 @@
 requests
-urllib
+urllib3
 numpy
 pandas
 scipy
 selenium
 bs4
-lib2to3.pgen2
+2to3
