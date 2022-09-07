@@ -1,0 +1,8 @@
+requests
+urllib3
+numpy
+pandas
+scipy
+selenium
+bs4
+2to3
